@@ -123,3 +123,11 @@ Dalam perspektif hukum, UU PDP mewajibkan pengendali data untuk menerapkan langk
 
 Secara keseluruhan, perlindungan data pemilih merupakan bagian dari perlindungan demokrasi itu sendiri. Keamanan data, transparansi, dan akuntabilitas harus berjalan beriringan untuk menjaga legitimasi proses pemilu dan kepercayaan masyarakat.</p>
 </div>
+
+<div align="left">
+<h2>REFERENSI</h2>
+https://journal.widyatama.ac.id/index.php/justinfo/article/view/1793
+https://www.ojs.daarulhuda.or.id/index.php/MHI/article/view/823
+https://dinastirev.org/JIHHP/article/view/2155
+</div>
+
