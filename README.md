@@ -126,8 +126,8 @@ Secara keseluruhan, perlindungan data pemilih merupakan bagian dari perlindungan
 
 <div align="left">
 <h2>REFERENSI</h2>
-https://journal.widyatama.ac.id/index.php/justinfo/article/view/1793
-https://www.ojs.daarulhuda.or.id/index.php/MHI/article/view/823
-https://dinastirev.org/JIHHP/article/view/2155
+https://journal.widyatama.ac.id/index.php/justinfo/article/view/1793 <br>
+https://www.ojs.daarulhuda.or.id/index.php/MHI/article/view/823 <br>
+https://dinastirev.org/JIHHP/article/view/2155 <br>
 </div>
 
