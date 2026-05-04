@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>KEBOCORAN DATA KP/PEMILU 2025 INDONESIA</h1>
+  <h1>KEBOCORAN DATA KPU/PEMILU 2025 INDONESIA</h1>
   <p>Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B) <br>
 Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom
     <br>
