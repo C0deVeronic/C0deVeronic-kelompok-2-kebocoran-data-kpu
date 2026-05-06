@@ -131,3 +131,10 @@ https://www.ojs.daarulhuda.or.id/index.php/MHI/article/view/823 <br>
 https://dinastirev.org/JIHHP/article/view/2155 <br>
 </div>
 
+<div align="center">
+  <h2>Link Youtube Presentasi</h2>
+
+  <a href="https://www.youtube.com/watch?v=mZIBAGtSUSE">
+    <img src="https://img.youtube.com/vi/mZIBAGtSUSE/0.jpg" alt="Tonton Video">
+  </a>
+</div>
